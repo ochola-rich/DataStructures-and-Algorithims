@@ -1,0 +1,6 @@
+it (cap) was the best of times , it was the worst of times (up) ,  
+it was the age of wisdom (cap, 4) , it was the age of foolishness (cap, 5) ,  
+it was the epoch of belief , it was the epoch of incredulity ,  
+it was the season of light (cap) , it was the season of darkness ,  
+it was the spring of hope (up) , it was the winter of despair ,  
+we had 1E (hex) reasons , and 1010 (bin) chances ,  to make it right .
